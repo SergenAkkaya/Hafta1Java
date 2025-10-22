@@ -1,1 +1,1 @@
-# Hafta1Java
+1. hafta ders projeleri.
